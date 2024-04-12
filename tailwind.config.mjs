@@ -12,8 +12,9 @@ export default {
 		black: "#000000",
 		white: "#FFFFFF",
 		gray: "#0D0C22",
+		green: "#2D882D",
 		stone: "#231F20",
-		lime: "#B9FF66",
+		lime: "#73b32c",
 		zinc: {
 		  100: "#F3F3F3",
 		  200: "#F0F0F0",
@@ -28,7 +29,7 @@ export default {
 	  },
 	  extend: {
 		fontFamily: {
-			SpaceGrotesk: ["Space Grotesk", "sans-serif"],
+			SpaceGrotesk: ["Helvetica Neue", "sans-serif"],
 		},
 	  },
 	},
